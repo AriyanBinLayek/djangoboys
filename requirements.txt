@@ -1,11 +1,2 @@
-adium-theme-ubuntu==0.3.4
-gyp==0.1
-pbr==3.1.1
-pycurl==7.43.0
-python-apt==1.1.0b1
-six==1.11.0
-stevedore==1.28.0
-unity-lens-photos==1.0
-virtualenv==15.1.0
-virtualenv-clone==0.2.6
-virtualenvwrapper==4.8.2
+Django===1.11,
+djangorestframework==3.6.3
